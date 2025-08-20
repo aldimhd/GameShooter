@@ -149,5 +149,7 @@ while run:
            window.blit(win, (200, 200))
 
        display.update()
+    #test
    #the loop is executed each 0.05 sec
    time.delay(50)
+
